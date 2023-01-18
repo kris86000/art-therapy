@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display:wght@400;500&family=Zilla+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Zilla+Slab:wght@300&display=swap');
+
+body{
+    font-family: 'Zilla Slab';
+    font-size: 22px;
+}
+
+.title{
+    font-family: 'Anton'; 
+}
+
+main {
+    width: 100%;
+    margin: auto;
+    
+}
+
+.navbar {
+    margin-top: 5px;
+}
+
+#navMenu {
+    margin-right: 50px;
+}
+
+.navbar-burger {
+    margin-right: 30px;
+}
+
+.navbar-item {
+    color: black;
+}
+
+.iconeTel {
+    margin-right: 15px;
+}
+
+.iconeWeb {
+    
+    margin: 25px;
+}
+
+/* image top */
+.imageSection {
+    margin-top: 10px;
+}
+
+#presentation {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: rgb(147, 183, 250);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#activites {
+    margin-bottom: 50px;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    padding-top: 30px;
+    margin-top: 20px;
+    bottom: 0; 
+    background-color: #f14668 !important;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+#contactForm.column{
+    background-color: whitesmoke !important;
+    border-radius: 80px !important;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#contact img{
+    border-radius: 20px !important;
+    filter: contrast(150%);
+}
+.localisation{
+    background-color: rgb(233, 232, 232);
+    border-radius: 20px 20px 0 0;
+}
+.info{
+    margin: auto;
+}
+
+.info span{
+    color: red;
+    text-decoration: underline;
+}
+
+.titreInfo{
+    text-decoration: underline;
+}
+
+.imageLoca figure{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
